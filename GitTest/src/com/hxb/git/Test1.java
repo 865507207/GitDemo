@@ -9,6 +9,11 @@ public class Test1 {
 		int c = a*b;
 		return "hello test";
 	}
+	
+	private String test2(){
+		
+		return "hello test2";
+	}
 	/**
 	 * @param args
 	 */
