@@ -12,7 +12,7 @@ public class Test1 {
 	
 	private String test2(){
 		
-		return "hello test2";
+		return "hello test2q";
 	}
 	/**
 	 * @param args
