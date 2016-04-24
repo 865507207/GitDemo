@@ -4,7 +4,9 @@ public class Test1 {
 
 	
 	private String test(){
-		
+		int a = 10;
+		int b = 10;
+		int c = a*b;
 		return "hello test";
 	}
 	/**
